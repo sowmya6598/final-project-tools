@@ -2,107 +2,109 @@
 *.ipynb_checkpoints*
 __pycache__/
 
+/data/
+
 
 # Add more files & directories as needed
-/data/yellow_taxi_2009_01.parquet
-/data/yellow_taxi_2009_02.parquet
-/data/yellow_taxi_2009_03.parquet
-/data/yellow_taxi_2009_04.parquet
-/data/yellow_taxi_2009_05.parquet
-/data/yellow_taxi_2009_06.parquet
-/data/yellow_taxi_2009_07.parquet
-/data/yellow_taxi_2009_08.parquet
-/data/yellow_taxi_2009_09.parquet
-/data/yellow_taxi_2009_10.parquet
-/data/yellow_taxi_2009_11.parquet
-/data/yellow_taxi_2009_12.parquet
+# /data/yellow_taxi_2009_01.parquet
+# /data/yellow_taxi_2009_02.parquet
+# /data/yellow_taxi_2009_03.parquet
+# /data/yellow_taxi_2009_04.parquet
+# /data/yellow_taxi_2009_05.parquet
+# /data/yellow_taxi_2009_06.parquet
+# /data/yellow_taxi_2009_07.parquet
+# /data/yellow_taxi_2009_08.parquet
+# /data/yellow_taxi_2009_09.parquet
+# /data/yellow_taxi_2009_10.parquet
+# /data/yellow_taxi_2009_11.parquet
+# /data/yellow_taxi_2009_12.parquet
 
-/data/yellow_taxi_2010_01.parquet
-/data/yellow_taxi_2010_02.parquet
-/data/yellow_taxi_2010_03.parquet
-/data/yellow_taxi_2010_04.parquet
-/data/yellow_taxi_2010_05.parquet
-/data/yellow_taxi_2010_06.parquet
-/data/yellow_taxi_2010_07.parquet
-/data/yellow_taxi_2010_08.parquet
-/data/yellow_taxi_2010_09.parquet
-/data/yellow_taxi_2010_10.parquet
-/data/yellow_taxi_2010_11.parquet
-/data/yellow_taxi_2010_12.parquet
+# /data/yellow_taxi_2010_01.parquet
+# /data/yellow_taxi_2010_02.parquet
+# /data/yellow_taxi_2010_03.parquet
+# /data/yellow_taxi_2010_04.parquet
+# /data/yellow_taxi_2010_05.parquet
+# /data/yellow_taxi_2010_06.parquet
+# /data/yellow_taxi_2010_07.parquet
+# /data/yellow_taxi_2010_08.parquet
+# /data/yellow_taxi_2010_09.parquet
+# /data/yellow_taxi_2010_10.parquet
+# /data/yellow_taxi_2010_11.parquet
+# /data/yellow_taxi_2010_12.parquet
 
-/data/yellow_taxi_2011_01.parquet
-/data/yellow_taxi_2011_02.parquet
-/data/yellow_taxi_2011_03.parquet
-/data/yellow_taxi_2011_04.parquet
-/data/yellow_taxi_2011_05.parquet
-/data/yellow_taxi_2011_06.parquet
-/data/yellow_taxi_2011_07.parquet
-/data/yellow_taxi_2011_08.parquet
-/data/yellow_taxi_2011_09.parquet
-/data/yellow_taxi_2011_10.parquet
-/data/yellow_taxi_2011_11.parquet
-/data/yellow_taxi_2011_12.parquet
+# /data/yellow_taxi_2011_01.parquet
+# /data/yellow_taxi_2011_02.parquet
+# /data/yellow_taxi_2011_03.parquet
+# /data/yellow_taxi_2011_04.parquet
+# /data/yellow_taxi_2011_05.parquet
+# /data/yellow_taxi_2011_06.parquet
+# /data/yellow_taxi_2011_07.parquet
+# /data/yellow_taxi_2011_08.parquet
+# /data/yellow_taxi_2011_09.parquet
+# /data/yellow_taxi_2011_10.parquet
+# /data/yellow_taxi_2011_11.parquet
+# /data/yellow_taxi_2011_12.parquet
 
-/data/yellow_taxi_2012_01.parquet
-/data/yellow_taxi_2012_02.parquet
-/data/yellow_taxi_2012_03.parquet
-/data/yellow_taxi_2012_04.parquet
-/data/yellow_taxi_2012_05.parquet
-/data/yellow_taxi_2012_06.parquet
-/data/yellow_taxi_2012_07.parquet
-/data/yellow_taxi_2012_08.parquet
-/data/yellow_taxi_2012_09.parquet
-/data/yellow_taxi_2012_10.parquet
-/data/yellow_taxi_2012_11.parquet
-/data/yellow_taxi_2012_12.parquet
+# /data/yellow_taxi_2012_01.parquet
+# /data/yellow_taxi_2012_02.parquet
+# /data/yellow_taxi_2012_03.parquet
+# /data/yellow_taxi_2012_04.parquet
+# /data/yellow_taxi_2012_05.parquet
+# /data/yellow_taxi_2012_06.parquet
+# /data/yellow_taxi_2012_07.parquet
+# /data/yellow_taxi_2012_08.parquet
+# /data/yellow_taxi_2012_09.parquet
+# /data/yellow_taxi_2012_10.parquet
+# /data/yellow_taxi_2012_11.parquet
+# /data/yellow_taxi_2012_12.parquet
 
-/data/yellow_taxi_2013_01.parquet
-/data/yellow_taxi_2013_02.parquet
-/data/yellow_taxi_2013_03.parquet
-/data/yellow_taxi_2013_04.parquet
-/data/yellow_taxi_2013_05.parquet
-/data/yellow_taxi_2013_06.parquet
-/data/yellow_taxi_2013_07.parquet
-/data/yellow_taxi_2013_08.parquet
-/data/yellow_taxi_2013_09.parquet
-/data/yellow_taxi_2013_10.parquet
-/data/yellow_taxi_2013_11.parquet
-/data/yellow_taxi_2013_12.parquet
+# /data/yellow_taxi_2013_01.parquet
+# /data/yellow_taxi_2013_02.parquet
+# /data/yellow_taxi_2013_03.parquet
+# /data/yellow_taxi_2013_04.parquet
+# /data/yellow_taxi_2013_05.parquet
+# /data/yellow_taxi_2013_06.parquet
+# /data/yellow_taxi_2013_07.parquet
+# /data/yellow_taxi_2013_08.parquet
+# /data/yellow_taxi_2013_09.parquet
+# /data/yellow_taxi_2013_10.parquet
+# /data/yellow_taxi_2013_11.parquet
+# /data/yellow_taxi_2013_12.parquet
 
-/data/yellow_taxi_2014_01.parquet
-/data/yellow_taxi_2014_02.parquet
-/data/yellow_taxi_2014_03.parquet
-/data/yellow_taxi_2014_04.parquet
-/data/yellow_taxi_2014_05.parquet
-/data/yellow_taxi_2014_06.parquet
-/data/yellow_taxi_2014_07.parquet
-/data/yellow_taxi_2014_08.parquet
-/data/yellow_taxi_2014_09.parquet
-/data/yellow_taxi_2014_10.parquet
-/data/yellow_taxi_2014_11.parquet
-/data/yellow_taxi_2014_12.parquet
+# /data/yellow_taxi_2014_01.parquet
+# /data/yellow_taxi_2014_02.parquet
+# /data/yellow_taxi_2014_03.parquet
+# /data/yellow_taxi_2014_04.parquet
+# /data/yellow_taxi_2014_05.parquet
+# /data/yellow_taxi_2014_06.parquet
+# /data/yellow_taxi_2014_07.parquet
+# /data/yellow_taxi_2014_08.parquet
+# /data/yellow_taxi_2014_09.parquet
+# /data/yellow_taxi_2014_10.parquet
+# /data/yellow_taxi_2014_11.parquet
+# /data/yellow_taxi_2014_12.parquet
 
-/data/yellow_taxi_2015_01.parquet
-/data/yellow_taxi_2015_02.parquet
-/data/yellow_taxi_2015_03.parquet
-/data/yellow_taxi_2015_04.parquet
-/data/yellow_taxi_2015_05.parquet
-/data/yellow_taxi_2015_06.parquet
+# /data/yellow_taxi_2015_01.parquet
+# /data/yellow_taxi_2015_02.parquet
+# /data/yellow_taxi_2015_03.parquet
+# /data/yellow_taxi_2015_04.parquet
+# /data/yellow_taxi_2015_05.parquet
+# /data/yellow_taxi_2015_06.parquet
 
 
-/data/2009_weather.csv
-/data/2010_weather.csv
-/data/2011_weather.csv
-/data/2012_weather.csv
-/data/2013_weather.csv
-/data/2014_weather.csv
-/data/2015_weather.csv
+# /data/2009_weather.csv
+# /data/2010_weather.csv
+# /data/2011_weather.csv
+# /data/2012_weather.csv
+# /data/2013_weather.csv
+# /data/2014_weather.csv
+# /data/2015_weather.csv
 
-/data/taxi_zones.dbf
-/data/taxi_zones.prj
-/data/taxi_zones.sbn
-/data/taxi_zones.sbx
-/data/taxi_zones.shp
-/data/taxi_zones.shp.xml
-/data/taxi_zones.shx
-/data/uber_rides_sample.csv
+# /data/taxi_zones.dbf
+# /data/taxi_zones.prj
+# /data/taxi_zones.sbn
+# /data/taxi_zones.sbx
+# /data/taxi_zones.shp
+# /data/taxi_zones.shp.xml
+# /data/taxi_zones.shx
+# /data/uber_rides_sample.csv
