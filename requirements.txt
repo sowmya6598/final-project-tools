@@ -3,6 +3,7 @@
 arrow==1.2.3
 beautifulsoup4==4.11.1
 geographiclib==1.52
+geopandas==1.16
 matplotlib==3.6.3
 pandas==1.5.3
 pyarrow==11.0.0
