@@ -9,4 +9,7 @@ pandas==1.5.3
 pyarrow==11.0.0
 requests==2.28.2
 SQLAlchemy==2.0.7
+numpy
+scipy
+folium
 requests
