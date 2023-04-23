@@ -1,2 +1,0 @@
-SELECT * from TAXI_TRIPS
-where pickup_datetime BETWEEN '2010-07-01 00:00:00' AND '2013-07-31 00:00:00 UTC'
