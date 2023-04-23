@@ -21,7 +21,7 @@
     CREATE TABLE IF NOT EXISTS TAXI_TRIPS (
         id INTEGER PRIMARY KEY AUTOINCREMENT,
         pickup_datetime DATETIME,
-        dropoff_datetime DATETIME,
+        Trip_Dropoff_DateTime DATETIME
         Passenger_Count REAL
         Trip_Distance REAL,
         Start_Lon REAL,
@@ -37,12 +37,12 @@
 
     CREATE TABLE IF NOT EXISTS UBER_TRIPS (
         id INTEGER PRIMARY KEY AUTOINCREMENT,
-        pickup_datetime DATETIME,
+        fare_amount REAL,
         pickup_longitude REAL,
         pickup_latitude REAL,
         dropoff_longitude REAL,
         dropoff_latitude REAL,
-        fare_amount REAL,
-        distance REAL,
         passenger_count INTEGER,
+        pickup_time DATETIME,
+        distance REAL,
     );
