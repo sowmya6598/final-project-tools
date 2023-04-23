@@ -1,4 +1,4 @@
-SELECT t.pickup_date, COUNT(*) AS frequency, AVG(w.wind) AS avg_wind
+SELECT t.pickup_date, COUNT(*) AS frequency, AVG(w.HourlyWindSpeed) AS avg_wind
 FROM (
   SELECT date(pickup_datetime) AS pickup_date
   FROM UBER_TRIPS
