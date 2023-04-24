@@ -7,9 +7,9 @@ FROM (
   SELECT date(pickup_datetime) AS pickup_date
   FROM TAXI_TRIPS
   WHERE pickup_datetime BETWEEN '2014-01-01' AND '2014-12-31'
-) AS t
+) t
 JOIN DAILY_WEATHER w
-ON t.pickup_date = date(concat(w.year, '-', w.month, '-', w.day))
+ON t.pickup_date = date(w.year || '-' || w.month || '-' || w.day)
 GROUP BY t.pickup_date
 ORDER BY avg_wind DESC
 LIMIT 10;
