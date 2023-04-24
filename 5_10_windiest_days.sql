@@ -1,8 +1,8 @@
 SELECT t.pickup_date, COUNT(*) AS frequency, AVG(w.HourlyWindSpeed) AS avg_wind
 FROM (
-  SELECT date(pickup_datetime) AS pickup_date
+  SELECT date(pickup_time) AS pickup_date
   FROM UBER_TRIPS
-  WHERE pickup_datetime BETWEEN '2014-01-01' AND '2014-12-31'
+  WHERE pickup_time BETWEEN '2014-01-01' AND '2014-12-31'
   UNION ALL
   SELECT date(pickup_datetime) AS pickup_date
   FROM TAXI_TRIPS
